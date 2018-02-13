@@ -13,5 +13,7 @@ build:
   number: 0
 requirements:
   build:
+    - logging-helpers ==0.2.1.post1
 
   run:
+    - logging-helpers ==0.2.1.post1
